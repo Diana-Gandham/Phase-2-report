@@ -1,4 +1,4 @@
-# Phase-2-report
+# Phase-2-Project-report 
 
 Major Project
 
@@ -11,4 +11,6 @@ Submitted by    B. Swathi (19H51A0531)
                 D. Keerthi (19H51A0538)
                 
 Under the esteemed guidance of Mr. B.K. Chinna Maddileti (Assistant Professor)
+
+This repository also contains the code related to our project
 
