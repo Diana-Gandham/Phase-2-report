@@ -7,8 +7,10 @@ This is a complete project report on "Detection of Cyberbullying on Social Media
 This repository also contains the code related to our project
 
 Submitted by    
+                
+                
                 B. Swathi     (19H51A0531)
-
+                
                 G. Diana      (19H51A0537)
                 
                 D. Keerthi    (19H51A0538)
